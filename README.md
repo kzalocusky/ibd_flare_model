@@ -29,4 +29,5 @@ hidden and not included as we no longer have access to data due to data use agre
 - `results`: Folder that contains results. See overview in analysis 
   folder for where specific model results are saved.  
 
+KELLY ATTEMPTS TO EDIT THE README.
 
